@@ -1,0 +1,4 @@
+Halo pak saya salah satu siswa dari SMK N 1 Nanggulan, D.I. Yogyakarta.
+  - saya mau bekerja menjadi frontend developer di perusahaan startup pak.
+
+pak, di css itu ada selector{properti::hover"dll" :values;}. pak tolong buat vidio tentang hover dan properti lainnya dong pak
